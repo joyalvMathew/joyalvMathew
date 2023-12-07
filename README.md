@@ -24,7 +24,7 @@ I'm a passionate Frontend Developer with expertise in web technologies. Here's a
 
 ## Get in Touch:
 
-- LinkedIn: [Joyal V Mathew](link-to-linkedin)
-- Twitter: [Joyal V Mthew](link-to-twitter)
+- LinkedIn: [Joyal V Mathew]([link-to-linkedin](https://www.linkedin.com/in/joyal-v-mathew))
+- Twitter: [Joyal V Mthew]([link-to-twitter](https://x.com/Joyalvmathew))
 
 Let's connect and create something amazing together! 🚀
