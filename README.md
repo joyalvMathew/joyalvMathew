@@ -15,11 +15,7 @@ I'm a passionate Frontend Developer with expertise in web technologies. Here's a
 - Java
 - Linux
 
-## My Projects:
 
-- [Project 1](link-to-project-1): Short description.
-- [Project 2](link-to-project-2): Short description.
-- [Project 3](link-to-project-3): Short description.
 
 ## Get in Touch:
 
