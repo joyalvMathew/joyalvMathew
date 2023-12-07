@@ -14,12 +14,17 @@ I'm a passionate Frontend Developer with expertise in web technologies. Here's a
 - .NET
 - Java
 - Linux
+- javascript
+- Android
+- c++
+- c#
+- php
 
 
 
 ## Get in Touch:
 
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
-- Twitter: [@YourTwitterHandle](link-to-twitter)
+- LinkedIn: [Joyal V Mathew](link-to-linkedin)
+- Twitter: [Joyal V Mthew](link-to-twitter)
 
 Let's connect and create something amazing together! 🚀
