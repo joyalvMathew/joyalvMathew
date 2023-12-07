@@ -1,57 +1,29 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>About Me - Joyal</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f4f4f4;
-      color: #333;
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
+# Hi there, I'm Joyal! 👋
 
-    header {
-      background-color: #3498db;
-      color: #fff;
-      text-align: center;
-      padding: 1em;
-    }
+I'm a passionate Frontend Developer with expertise in web technologies. Here's a bit about me:
 
-    section {
-      max-width: 800px;
-      margin: 20px auto;
-      padding: 20px;
-      background-color: #fff;
-      border-radius: 8px;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    }
+- 💻 I'm skilled in HTML, CSS, Python, .NET, Java, and Linux.
+- 🚀 I love creating user-friendly and visually appealing web experiences.
+- 🌐 I enjoy staying updated with the latest trends in frontend development.
+- 🤝 I believe in the power of collaboration and am open to exciting projects.
 
-    h1 {
-      color: #3498db;
-    }
+## Technologies I Work With:
 
-    p {
-      line-height: 1.6;
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <h1>About Me - Joyal</h1>
-  </header>
+- HTML & CSS
+- Python
+- .NET
+- Java
+- Linux
 
-  <section>
-    <p>Hello! I'm Joyal, a passionate Frontend Developer with expertise in HTML, CSS, Python, .NET, Java, and Linux. I love creating engaging and user-friendly web experiences that bring ideas to life.</p>
+## My Projects:
 
-    <p>My journey in the world of development started with HTML and CSS, and over time, I've expanded my skills to include Python, .NET, Java, and Linux. I enjoy the process of turning concepts into reality and am always eager to learn and adapt to new technologies.</p>
+- [Project 1](link-to-project-1): Short description.
+- [Project 2](link-to-project-2): Short description.
+- [Project 3](link-to-project-3): Short description.
 
-    <p>When I'm not coding, you can find me exploring the latest trends in frontend development, experimenting with new design concepts, or contributing to open-source projects. I believe in the power of collaboration and enjoy being part of a creative and innovative community.</p>
+## Get in Touch:
 
-    <p>Let's connect and create something amazing together!</p>
-  </section>
-</body>
-</html>
+- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
+- Twitter: [@YourTwitterHandle](link-to-twitter)
+
+Let's connect and create something amazing together! 🚀
